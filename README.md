@@ -91,12 +91,12 @@ To design and implement an end-to-end IoT system that collects sensor data and v
 ---
 
 
-### 🐍 GitHub Contribution Snake
+<!--### 🐍 GitHub Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dhananjaykr9/dhananjaykr9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
+-->
 
 ---
 ## 👁️ Visitor Counter
