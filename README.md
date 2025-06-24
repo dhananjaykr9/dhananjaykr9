@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Dhananjay Kharkar
 
-🎓 A passionate **IoT & Data Analytics Enthusiast** who blends hardware systems with intelligent data-driven solutions.  
-💡 I specialize in building real-time monitoring systems using **ESP32**, **Node-RED**, **MySQL**, **Grafana**, and **Python-based analytics**.  
-🚀 Currently exploring ways to connect embedded systems with AI, cloud services, and dynamic dashboards to enable smart environments.  
+🎓 I'm an enthusiastic **IoT & Data Analytics Engineer** dedicated to bridging the gap between embedded hardware and intelligent, data-driven systems.  
+💡 I focus on creating robust, real-time monitoring solutions using tools like **ESP32**, **Node-RED**, **SQL databases**, and **Python analytics** to deliver actionable insights.  
+🚀 Currently diving deeper into AI integration, cloud connectivity, and scalable smart dashboards.
 
 [![Website](https://img.shields.io/badge/Website-dhananjaykharkar.tech-0A0A0A?style=flat&logo=Google-Chrome&logoColor=white)](http://dhananjaykharkar.tech/)
-
 
 ---
 
@@ -23,16 +22,22 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
 ### 📈 Visualization & BI Tools  
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 
 ### 💾 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 🔌 IoT & Automation  
-![ESP32](https://img.shields.io/badge/ESP32-%235C5C5C?style=flat&logo=espressif&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white)  ![Mosquitto MQTT](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%235C5C5C?style=flat&logo=espressif&logoColor=white)  ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white)  ![Mosquitto MQTT](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 ### ⚙️ Developer Tools  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🧠 Domain Expertise
+
+`IoT` • `Embedded Systems` • `Real-Time Dashboards` • `Data Visualization` • `Analytics & Reporting` • `Python Scripting` • `SQL Databases`
 
 ---
 
@@ -60,6 +65,14 @@ To design and implement an end-to-end IoT system that collects sensor data and v
 
 ---
 
+## 🧩 Notable Projects
+
+- 🔌 **Smart Sensor Network with ESP32 & Node-RED** – MQTT-based multi-sensor network with dynamic MySQL-Grafana integration.
+- 📶 **Live Energy Meter Dashboard** – Real-time power usage tracking with Node-RED and Power BI.
+- 🧠 **Basic AI on Edge** – ML-powered ESP32 system for anomaly detection (in progress).
+
+---
+
 ## 📜 Certifications
 
 ✅ **Data Analysis with Python** – IBM / Coursera  
@@ -72,9 +85,8 @@ To design and implement an end-to-end IoT system that collects sensor data and v
 
 ## 📊 GitHub Stats
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjaykr9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dhananjaykr9&theme=dark&hide_border=false)  
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaykr9&theme=dark&hide_border=false&layout=compact)-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaykr9&theme=dark&hide_border=false&layout=compact)
 
 ---
 
@@ -86,23 +98,22 @@ To design and implement an end-to-end IoT system that collects sensor data and v
 
 ## 🔝 Top Contributed Repositories
 
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=dhananjayk9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=dhananjaykr9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
+## 🎯 Fun Facts
 
-<!--### 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhananjaykr9/dhananjaykr9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
--->
+- 🔬 I enjoy prototyping smart solutions from scratch with sensors and software  
+- 🧩 I love visualizing systems through dashboards  
+- 📚 Currently learning: **Docker + Kubernet + Cloud MQTT**
 
 ---
+
 ## 👁️ Visitor Counter
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dhananjaykr9.dhananjaykr9)
 
-
 ---
 
-
+<!-- Built and enhanced with ❤️ using GPRM and manual markdown styling -->
