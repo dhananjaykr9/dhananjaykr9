@@ -72,9 +72,9 @@ To design and implement an end-to-end IoT system that collects sensor data and v
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjaykr9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjaykr9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dhananjaykr9&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaykr9&theme=dark&hide_border=false&layout=compact)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaykr9&theme=dark&hide_border=false&layout=compact)-->
 
 ---
 
