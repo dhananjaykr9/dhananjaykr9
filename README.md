@@ -5,6 +5,9 @@
 🚀 Currently diving deeper into AI integration, cloud connectivity, and scalable smart dashboards.
 
 [![Website](https://img.shields.io/badge/Website-dhananjaykharkar.tech-0A0A0A?style=flat&logo=Google-Chrome&logoColor=white)](http://dhananjaykharkar.tech/)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dhananjaykr9.dhananjaykr9)
+
+
 
 ---
 
@@ -116,11 +119,3 @@ To design and implement an end-to-end IoT system that collects sensor data and v
 - 📚 Currently learning: **Docker + Kubernet + Cloud MQTT**
 
 ---
-
-## 👁️ Visitor Counter
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dhananjaykr9.dhananjaykr9)
-
----
-
-<!-- Built and enhanced with ❤️ using GPRM and manual markdown styling -->
