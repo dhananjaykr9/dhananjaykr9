@@ -87,7 +87,7 @@ To design and implement an end-to-end IoT system that collects sensor data and v
 ---
 ## 📈𝗠𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗖𝗵𝗮𝗿𝘁
 
-[![deshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhananjaykr9&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![deshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhananjaykr9&theme=github-compact)](https://github.com/dhananjaykr9/github-readme-activity-graph)
 
 ---
 ## 📊 GitHub Stats
