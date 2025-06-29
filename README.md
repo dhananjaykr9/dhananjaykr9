@@ -39,6 +39,8 @@
 
 `IoT` • `Embedded Systems` • `Real-Time Dashboards` • `Data Visualization` • `Analytics & Reporting` • `Python Scripting` • `SQL Databases`
 
+
+<!--
 ---
 
 ## 🚀 Featured Project
@@ -80,9 +82,14 @@ To design and implement an end-to-end IoT system that collects sensor data and v
 ✅ **IoT & Embedded Systems** – Internship @ VNIT  
 ✅ **Power BI for Beginners** – Simplilearn  
 ✅ **Statistics & Visualization** – Self-Learning & Projects
+-->
 
 ---
+## 📈𝗠𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗖𝗵𝗮𝗿𝘁
 
+[![deshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhananjaykr9&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dhananjaykr9&theme=dark&hide_border=false)  
