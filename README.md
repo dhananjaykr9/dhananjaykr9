@@ -17,30 +17,50 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhananjaykharkar)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkharkar00@gmail.com)
 
+Here's your updated **💻 Tech Stack** section with `Streamlit` and `Firebase` included appropriately:
+
 ---
 
 ## 💻 Tech Stack
 
-### 📊 Data Analytics & Programming  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+### 📊 Data Analytics & Programming
 
-### 📈 Visualization & BI Tools  
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat\&logo=Matplotlib\&logoColor=black)
 
-### 💾 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+### 📈 Visualization & BI Tools
 
-### 🔌 IoT & Automation  
-![ESP32](https://img.shields.io/badge/ESP32-%235C5C5C?style=flat&logo=espressif&logoColor=white)  ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white)  ![Mosquitto MQTT](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat\&logo=grafana\&logoColor=white)
 
-### ⚙️ Developer Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 💾 Databases
+
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat\&logo=firebase\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat\&logo=mongodb\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat\&logo=microsoft%20sql%20server\&logoColor=white)
+
+### 🔌 IoT & Automation
+
+![ESP32](https://img.shields.io/badge/ESP32-%235C5C5C?style=flat\&logo=espressif\&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat\&logo=node-red\&logoColor=white)
+![Mosquitto MQTT](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat\&logo=eclipsemosquitto\&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat\&logo=Arduino\&logoColor=white)
+
+### ⚙️ Developer Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
 ## 🧠 Domain Expertise
 
-`IoT` • `Embedded Systems` • `Real-Time Dashboards` • `Data Visualization` • `Analytics & Reporting` • `Python Scripting` • `SQL Databases`
+• `IoT` • `Embedded Systems` • `Real-Time Dashboards` • `Data Visualization` • `Analytics & Reporting` • `Python Scripting` • `SQL Databases`
 
 
 <!--
