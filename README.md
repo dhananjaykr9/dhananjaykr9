@@ -17,8 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhananjaykharkar)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dkharkar00@gmail.com)
 
-Here's your updated **💻 Tech Stack** section with `Streamlit` and `Firebase` included appropriately:
-
 ---
 
 ## 💻 Tech Stack
