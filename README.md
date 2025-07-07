@@ -134,6 +134,5 @@ To design and implement an end-to-end IoT system that collects sensor data and v
 
 - 🔬 I enjoy prototyping smart solutions from scratch with sensors and software  
 - 🧩 I love visualizing systems through dashboards  
-- 📚 Currently learning: **Docker + Kubernet + Cloud MQTT**
 
 ---
