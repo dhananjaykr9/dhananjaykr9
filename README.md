@@ -44,9 +44,9 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[DocuMinr](https://github.com/dhananjaykr9/documinr)** | `LangChain` `Gemini` `Docker` | **Document Extraction Engine.** Converts unstructured PDFs into strict JSON datasets using LLMs and schema validation. |
 | **[MetricMind](https://github.com/dhananjaykr9/metricmind)** | `Docker` `Scikit-Learn` `SQLite` | **Predictive Business Analytics.** End-to-end sales forecasting system built with Test-Driven Development (TDD) and Docker. |
 | **[SmartFlow](https://github.com/dhananjaykr9/smartflow)** | `SQL Server` `FastAPI` | **Data Quality Pipeline.** Solves "Garbage In, Garbage Out" using Isolation Forests for anomaly detection. |
+| **[DocuMinr](https://github.com/dhananjaykr9/documinr)** | `LangChain` `Gemini` `Docker` | **Document Extraction Engine.** Converts unstructured PDFs into strict JSON datasets using LLMs and schema validation. |
 
 ---
 
