@@ -1,4 +1,4 @@
-# 📟 Terminal Summary // Dhananjay Kharkar · [![Status](https://img.shields.io/badge/Status-UPLINK_READY-10B981?style=flat-square&logo=visual-studio-code&logoColor=white)](https://dhananjaykharkar.tech)
+# 📟 Terminal Summary · [![Status](https://img.shields.io/badge/Status-UPLINK_READY-10B981?style=flat-square&logo=visual-studio-code&logoColor=white)](https://dhananjaykharkar.tech)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning;Generative+AI;Data-Centric+Systems" alt="Typing SVG" />
