@@ -1,4 +1,4 @@
-# 📟 Terminal Summary · `DATA_ENGINEER`
+# 📟 Terminal Summary 
 
 <div align="center">
 
@@ -161,10 +161,6 @@ Building my career as a **Data Engineer** and growing toward designing **scalabl
 ## 📡 Connect
 
 <div align="center">
-
-<a href="https://dhananjaykharkar.tech">
-<img src="https://img.shields.io/badge/Website-dhananjaykharkar.tech-0A0A0A?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/>
-</a>
 
 <a href="https://linkedin.com/in/dhananjaykharkar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
